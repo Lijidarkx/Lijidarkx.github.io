@@ -2,7 +2,7 @@
 title: Few Blog
 SEOTitle: LJ的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: 2639410172@gmail.com
+email: 2639410172@qq.com
 description: "God help those who help themselves."
 keyword: "By LJ C/C++, Python, Java"
 url: "http://lijidarkx.github.io"          # your host, for absolute URL
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4   #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d  #同上
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: 20a4c9304fb2b5e7a04e   #生成的clientID
+  clientSecret: 614e9f63d92da427fbdc60d9a266066bd6bb15ba  #同上
+  repo: lijidarkx.github.io    #仓库名称
+  owner: lijidarkx    #github用户名
+  admin: lijidarkx
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
